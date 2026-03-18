@@ -1,0 +1,11 @@
+{
+  "version": "2.0.1",
+  "notes": "Bug fixes and performance improvements.",
+  "pub_date": "2026-03-18T04:13:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "YOUR_BINARY_SIGNATURE_HERE",
+      "url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v2.0.1/glazzed-pro_2.0.1_x64_en-US.msi.zip"
+    }
+  }
+}
