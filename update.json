@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial release with GST Billing features.",
-  "pub_date": "2024-05-20T12:00:00Z",
+  "notes": "Initial release of Glazzed Accounting Pro.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHFPc2dsM3FkR2c1NHFJUDFONFlPdlpqWldsS1dCWThISmJwaEQxN1hIYWJOSUtoMzAzQW5pelZNSFRHRjExbnFtMUlVQmFqSGZSYnU4aDQ1ekYrWTBKY2RlOWZteEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODE2NDU0CWZpbGU6R2xhenplZCBBY2NvdW50aW5nIFByb18xLjAuMF94NjQtc2V0dXAuZXhlCnFBQkowY2F4MlRjYTNucmRFaWZpNzZra01mOG5yNFhHM2VaY3pMQS9CQW1WUVZHV0M0K1lvTlJGOE5GWGdyT0pDWFlpclBzbnBxSkN0L2JiRW5zS0NnPT0K",
-      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.0/Glazzed.Accounting.Pro_1.0.0_x64-setup.exe"
+      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.1/Glazzed%20Accounting%20Pro_1.0.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweGF1Q3E5aDdreVJuZFJKZGhhT0pIT2krWXBvTUNkQkp3eFlQQ21SVXNkbmVzelNNYVE2blJmZFpWSTV5em9wZU83S2lTVkJYY05FbnZwM3lmWnIrZmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTUwOTc1CWZpbGU6R2xhenplZCBBY2NvdW50aW5nIFByb18xLjAuMV94NjRfZW4tVVMubXNpCjQydzZDTTZteTEwbG5yWS9mL3l1NHIvS0loalhhazd1V21BMkExZTkxVXZEWjVmWmxheVhHVU1xNm1xK0hZcWpvS0NpaW0zVWthMHF5QWpxcUMva0RnPT0K"
     }
-  }
+  },
+  "version": "1.0.1",
+  "pub_date": "2026-03-22T03:43:11Z"
 }
