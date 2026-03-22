@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "pub_date": "2026-03-22T04:53:49Z",
+  "version": "1.0.2",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.1/Glazzed%20Accounting%20Pro_1.0.2_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweGNBVHhralUwRmp3bytTZGdXc0J2UkV6cWc1Mitkd1lkN3pOK2xGdGplRThoN0VaRnZiNDdGTFgxd2RJdUljeEtPU2hOamJRb3k5Vjdnam13VWl2dUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTUzNjUwCWZpbGU6R2xhenplZCBBY2NvdW50aW5nIFByb18xLjAuMl94NjRfZW4tVVMubXNpClZ1R3pidjMvZXdKdC9MUEU2d1FOaXhtaWJGb0R1bmQ4V1AzREZJQnB4bTdWM1ZQYVpBNW0zUW10Z2xpcTI0V0JGdDQ4WXFDZ2dKOVpmRnNYamtWUER3PT0K"
+      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.2/Glazzed%20Accounting%20Pro_1.0.2_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweFQxWmtKQnNGdUpvanJ1alE0aFkwUEhFa0ZwVG5EOTNFWjU0cm5vOTg1dXFVbytRWFpRZ29SazNsSWhNWHhRb3RENmZEb0t5RnlaTXNQVmo3bzFGU0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTU1MTk5CWZpbGU6R2xhenplZCBBY2NvdW50aW5nIFByb18xLjAuMl94NjRfZW4tVVMubXNpCmFCbWhIOVZTQzhpK1B1TnVSbFhUMi8zRWVaeXNFSVN2T1ZBdWsrRmY5OWFGeWpSY3JkSjIybXoyVEhTdG1OMmlIN2h3Ty9YOWwyRXptUm5GQksrNERnPT0K"
     }
   },
-  "notes": "Initial release of Glazzed Accounting Pro.",
-  "pub_date": "2026-03-22T04:27:52Z"
+  "notes": "Update to version 1.0.2."
 }
