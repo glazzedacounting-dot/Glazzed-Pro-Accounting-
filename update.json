@@ -1,19 +1,19 @@
 {
-  "version": "1.0.90",
-  "pub_date": "2026-07-10T15:55:12Z",
   "platforms": {
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweFNIS3I4ZHNWTDBkUVlFNE1LSGxoYTBaUmhWQjNLT1lXNVRpVVhiK3Jvbk5ZdGU5NHNBekM4TnFxYkh0WG96RnR4NThPVUFURDJXVTJDRDRVOTNDYUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjk4ODk4CWZpbGU6R2xhenplZFByb0FjY291bnRpbmdfMS4wLjkwX3g2NF9lbi1VUy5tc2kKOUhWMWRoR29Qak5rc1E4K29RNVJtclpQbVJGN1Z3YjRHcE55YTl6T1ZoVDVqUVhPT3Q0c2hxMWlmZXFicGlCM085L0hpOHhlK0JzaGRsQTczbEN5QkE9PQo=",
-      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.90/GlazzedProAccounting_1.0.90_x64_en-US.msi"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweFNIS3I4ZHNWTDBkUVlFNE1LSGxoYTBaUmhWQjNLT1lXNVRpVVhiK3Jvbk5ZdGU5NHNBekM4TnFxYkh0WG96RnR4NThPVUFURDJXVTJDRDRVOTNDYUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjk4ODk4CWZpbGU6R2xhenplZFByb0FjY291bnRpbmdfMS4wLjkwX3g2NF9lbi1VUy5tc2kKOUhWMWRoR29Qak5rc1E4K29RNVJtclpQbVJGN1Z3YjRHcE55YTl6T1ZoVDVqUVhPT3Q0c2hxMWlmZXFicGlCM085L0hpOHhlK0JzaGRsQTczbEN5QkE9PQo=",
-      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.90/GlazzedProAccounting_1.0.90_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweGVmYUErajRFbDExU29wRjhkT0dxdUFDTy8yaVJIbDFVQmtmRGFHbVQyelA2L1lDOFBacEVhNnJWS1NXZEVWV2NTaTVoaFRaYXJnUGRKL3lOTGRuWlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTE0NDY4CWZpbGU6R2xhenplZFByb0FjY291bnRpbmdfMS4wLjkxX3g2NF9lbi1VUy5tc2kKcDV2UHpGNlkrUGFSV0V0RGwxelJQNFcvMzByMThuclRYZ3lKTE9PZWcxZVM0N0tCSDZwQW11M25KcmFLMUovNWpRL0o1YmJZZ3VSNUIwMjhNVkQ1Qnc9PQo=",
+      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.91/GlazzedProAccounting_1.0.91_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweFZudjBIZUxtMmlwQ2QrMkZKV0t5NXdsTUV5QW0rajI0QWN2OTIyWkhDeENLVWN4RjlDZzlqS2NTdWF1a3JqaFp2b3I2c1didzVCUlFPa2dXbGw4aGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjk4ODk4CWZpbGU6R2xhenplZFByb0FjY291bnRpbmdfMS4wLjkwX3g2NC1zZXR1cC5leGUKWXQ4SHY2bVpZZG9rSTJudkxWWXpuNGVMWWhnTTM3QVVJSXR6ajE5TUJPNGU4L3RnUDZ2dEltaWpxZVFSMHVBdmtWMGNYVFE0MDlHcmZjZlh2OUl1Qmc9PQo=",
-      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.90/GlazzedProAccounting_1.0.90_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweFVSMHcvSnFuc3dUVVF6SmNkTUJvdE1uTjhBN0tJbm9NRHZiM0FROFhMNm40eHRxclp2YXl5Rk9scWVYcU5jdEFUSGdxaStxU1ZnNXY2elpVWVBjdXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTE0NDY4CWZpbGU6R2xhenplZFByb0FjY291bnRpbmdfMS4wLjkxX3g2NC1zZXR1cC5leGUKT3k3RGZmT2o1L2YwekJXdmZnUXJvRzdIYnJvLzQ3VDhqcDdvVUFjZjJuTjBET1RPOVJtTVlybFMzc2Y2NnRNMi9yQWlQL0FmeGJIT25WSG5SNVBnQnc9PQo=",
+      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.91/GlazzedProAccounting_1.0.91_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmIwZFFkb0hweGVmYUErajRFbDExU29wRjhkT0dxdUFDTy8yaVJIbDFVQmtmRGFHbVQyelA2L1lDOFBacEVhNnJWS1NXZEVWV2NTaTVoaFRaYXJnUGRKL3lOTGRuWlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTE0NDY4CWZpbGU6R2xhenplZFByb0FjY291bnRpbmdfMS4wLjkxX3g2NF9lbi1VUy5tc2kKcDV2UHpGNlkrUGFSV0V0RGwxelJQNFcvMzByMThuclRYZ3lKTE9PZWcxZVM0N0tCSDZwQW11M25KcmFLMUovNWpRL0o1YmJZZ3VSNUIwMjhNVkQ1Qnc9PQo=",
+      "url": "https://github.com/glazzedacounting-dot/Glazzed-Pro-Accounting-/releases/download/v1.0.91/GlazzedProAccounting_1.0.91_x64_en-US.msi"
     }
   },
-  "notes": "Update to version 1.0.90."
+  "version": "1.0.91",
+  "pub_date": "2026-07-13T03:48:30Z",
+  "notes": "Update to version 1.0.91."
 }
